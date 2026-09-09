@@ -1,0 +1,7 @@
+Description: Comprehensive QA documentation repository containing test cases, checklists, and testing strategy documents. Demonstrates organized quality assurance planning and test case management practices.
+
+Key Files:
+
+Checklist.xlsx - Master QA testing checklist
+Test cases.xlsx - Comprehensive test case documentation
+Login Page Test Cases.xlsx - Detailed test cases for login functionality
